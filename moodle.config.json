@@ -86,7 +86,15 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [],
+    "sites": [
+        {
+        "name": "St.John’s Peters International School",
+        "alias": "St.John’s Peters International School",
+        "url": "https://school.moodledemo.net/"
+
+        }
+    ],
+
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
